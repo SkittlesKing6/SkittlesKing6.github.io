@@ -1,9 +1,14 @@
 #guy {float:right}
+
 #collage {float:right}
+
 #sm {float:right}
+
 #video {float:right}
+
 body{ background-color:rgb(0, 0, 0) }
 *{
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     color: cyan;
+    font-size: larger;
 }
